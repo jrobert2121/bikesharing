@@ -36,4 +36,10 @@ The purpose of the project is to create visualizations with Tableau using Citi B
  ![Bike_Repairs](Resources/Bike_Repairs.png)
 
 ## Summary
-High level summary and two additional visualizations suggested for future analysis.
+In conclusion, it seems that a bikesharing program is more heavily utilized in busier, more commercial areas.  Areas that lean towards less commercial and more residential have a lower usage.  The service seems to have strong subscriber base comprising mostly of male users during peak rush hours during the weekdays.  Top starting locations are found at major transportation hubs and popular tourist attractions with trips being short.
+
+Other visualizations to explore may include:
+ - Top Ending Locations by Usertype to determine where subscribers are ending up versus customers.  Could there be a potential need to relocate more bikes to those areas for a return trip?  
+ - Length of Trip Duration by Usertype to determine who might be using the bikes for longer trips.
+ - Analyze other monthly data other than August to determine how the bikesharing is utilized in less busy months.
+ - Analyze weather data with the trip durations to determine how weather will affect trips.
