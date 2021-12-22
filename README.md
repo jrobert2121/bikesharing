@@ -15,7 +15,25 @@ The purpose of the project is to create visualizations with Tableau using Citi B
 
  ![Checkout_Times_by_Gender](Resources/Checkout_Times_by_Gender.png)
 
- - 
+ - Trips by Weekday per Hour:  This heatmap shows that the highest concentration of bikesharing occurs during the rush hours on weekdays but we see more usage mid day during the weekends.  This seems to indicate that clients are using bikesharing for a quick work commute.
+
+ ![Trips_by_Weekday_per_Hour](Resources/Trips_by_Weekday_per_Hour.png)
+
+ - Trips by Gender by Weekday per Hour:  In further breaking down the above visualization by gender, it further illustrates that males are the predominant user during rush hours.  We can see that where the gender is unknown, there are more trips taken on weekends than during the weekdays.  This may indicate that those with an unknown gender are not subscribers but rather area tourists.
+
+ ![Trips_by_Gender_Weekday_Hour](Resources/Trips_by_Gender_Weekday_Hour.png)
+
+ - Usertype Trips by Gender by Weekday: This visualization further illustrates that the usertype, Customer, often of unknown gender and has the greatest amount of trips on the Saturday and Sunday.  Whereas, the usertype of Subscriber is usually a known gender.  The majority of subscribers are male that use the service mostly on the weekdays, particularly at Thursdays and Fridays.  It would seem that our subscribers are use the bikesharing for commuting and customers are using it for weekend activities, possibly sightseeing.
+
+ ![User_Trips_By_Gender_by_Weekday](Resources/User_Trips_By_Gender_by_Weekday.png)
+
+ - Top Starting Locations:  The map below shows where the greatest starting locations of trips occur.  Mid to lower Manhattan sees the greatest number of starting trip locations.  The highest coordinates on the map coincide with Grand Central Station Terminal area as the top starting location.  Other top starting locations are located near the Lincoln Tunnel and outside of major tourist destinations.  
+
+ ![Top_Starting_Locations](Resources/Top_Starting_Locations.png)
+
+ - Bike Repairs: Another point to consider is maintenance on the bikes.  We can assume that bikes that are more heavily used are likely going to need more maintenance and repairs.  The treemap below shows bikes that are the most heavily used in red through the least used in blue.  We can use this information to determine how many bikes will be in need of repair in the future.
+
+ ![Bike_Repairs](Resources/Bike_Repairs.png)
 
 ## Summary
 High level summary and two additional visualizations suggested for future analysis.
